@@ -1,0 +1,15 @@
+# Large datasets
+data/Final/Raw_Dataset.csv
+data/Final/processed_news_dataset.csv
+data/Source/Fake.csv
+data/Source/True.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
